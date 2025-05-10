@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hemanth meher</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web development and prompt engineering**
+- 🔭 I’m currently working on ****Building AI Agents
 
-- 🌱 I’m currently learning **Java and natural language processing**
+- 🌱 I’m currently learning **Machine Learning and natural language processing**
 
 - 📫 How to reach me **hemanthimandi5@gmail. Com**
 
